@@ -1,25 +1,15 @@
 ' War and Peace, 10/29/14 revised 10/31/14, mga1
-' My first attempt to get a file up to GitHub 10/30/14, I already have it described with Readme
 
-' The CardString function could prove handy for any BASIC Gamer
+' My first attempt to get a file up to GitHub 10/30/14, I already have it described with Readme
+' 10/31/14 issue of possibility of drawing from empty deck is fixed here
+
+' The function could prove handy for any BASIC Gamer
 ' You can add your own Timer and make it a game of speed and accuracy, blah, blah, blah
 ' I just want to prove you don't have to shuffle the cards
 
-
-'issue #1 fix a potential problem if the function gets used in app that attempts to draw
-'from empty deck. i had not had a check on that and could hang the program if I or someone else
-'doesn't track the deck
-' 10/31/14 issue of possibility of drawing from empty deck is fixed here
-
-'issue #2 probably wins "The most boring game in the world! Award."
-'Lets report that now to GitHub as issue 10/31/14 11.25p for practice
-'I know I made this game BASICally to prove that you don't need to shuffle or do anything
-'with cards before you start "dealing" from deck but the game is about the most boring in the world
-
-
 'For MS Small Basic, where you see Print or ? substitute TextWindow.(I forget the rest)
-' FI is End IF, ELIF is ElseIF, I am not remembering the your terms that well
-' RND is Math.(something) I am planning a translation of code file/dictionary
+' FI is End IF, ELIF is ElseIF, I am not remembering the new terms that well
+' RND is Math.(something)
 
 
 
